@@ -1,4 +1,4 @@
-# 🔓 충대인
+# 🔐 CHUNGDAEIN - 충대인
 ![iPhone 15 Pro Max Front](https://github.com/CNU-MFA/.github/assets/33623123/e6631833-8bf5-4824-bf23-983b8bd4627c)
 ### 2024 충남대학교 포털 MFA 졸업 프로젝트
 > 진행기간: 2024.3.27 ~
